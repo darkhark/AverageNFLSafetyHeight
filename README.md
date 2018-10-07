@@ -7,4 +7,4 @@ The mean height: 72.0853658537 (6'0")
 The standard deviation: 1.50771365846
 
 Distribution: 
-![Distibution of NFL Safety Heights](../NFLSafetyHeightDistribution.jpg)
+![Distibution of NFL Safety Heights](https://github.com/jharknes/AverageNFLSafetyHeight/blob/master/NFLSafetyHeightDistribution.JPG)
